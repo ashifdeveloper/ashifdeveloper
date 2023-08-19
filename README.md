@@ -15,13 +15,13 @@ If you're curious about Java, backend coding, or anything techie, feel free to e
 
 - 🌱 I’m currently learning **FullStack web development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashifdeveloper](https://github.com/ashifdeveloper)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashifdeveloper)
 
 - 💬 Ask me about **Java,MySQL,SpringBoot.**
 
 - 📫 How to reach me **mohdashif995@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VZ-2OiuTwViLA6_fRWdt-jnwrE7TrnT0M-ezrpbOj7E/edit](https://docs.google.com/document/d/1VZ-2OiuTwViLA6_fRWdt-jnwrE7TrnT0M-ezrpbOj7E/edit)
+- 📄 Know about my experiences [MyResume](https://docs.google.com/document/d/1VZ-2OiuTwViLA6_fRWdt-jnwrE7TrnT0M-ezrpbOj7E/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
