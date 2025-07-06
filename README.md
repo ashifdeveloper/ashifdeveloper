@@ -21,7 +21,7 @@ If you're curious about Java, backend coding, or anything techie, feel free to e
 
 - 📫 How to reach me **mohdashif995@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://docs.google.com/document/d/1VZ-2OiuTwViLA6_fRWdt-jnwrE7TrnT0M-ezrpbOj7E/edit)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1kkuPMyT4xtuobL6xclOPXpSuIaXSr8ZD/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
